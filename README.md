@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Subham Behera
-- 👀 I’m interested in CODIND
+- 👀 I’m interested in CODING
 - 🌱 I’m currently learning DATA SCIENCE
 - 💞️ I’m looking to collaborate on PUBLIC
 - 📫 How to reach me ANY
