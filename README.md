@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Krishna66-SS
+- 👋 Hi, I’m Subham Behera
 - 👀 I’m interested in CODIND
 - 🌱 I’m currently learning DATA SCIENCE
 - 💞️ I’m looking to collaborate on PUBLIC
 - 📫 How to reach me ANY
-- 😄 Pronouns: LANGUAGES
-- ⚡ Fun fact: PROGRMMING
+- 😄 Pronouns: LANGUAGES-ENGLISH,HINDI
+- ⚡ Fun fact: PROGRMMER
 
 <!---
 Krishna66-SS/Krishna66-SS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
